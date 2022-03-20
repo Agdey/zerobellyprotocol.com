@@ -38,3 +38,20 @@ footer{
     height: 150px;
     padding-top: 30px;
 }
+
+@media (max-width: 768px) {
+    .fbp{
+        margin-left: 0px;
+    }
+    .imgfb{
+        width: 60px;
+        height: 50px;
+        float: left;
+    }
+    .coments{
+        padding: 50px 50px;
+        background-color: #fff;
+        color: black;
+    }
+       
+}
