@@ -1,0 +1,40 @@
+.namefb{
+color: #365899;
+font-weight: bold;
+}
+.coments{
+    padding: 50px 250px;
+    background-color: #fff;
+    color: black;
+}
+.imgfb{
+    width: 60px;
+    height: 50px;
+    float: left;
+    padding-right: 10px;
+}
+.fbp{
+    color: #444;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    line-height: 1.5em;
+    margin: 0;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    
+}
+
+.like{
+    font-size: 11px;
+    color: #90949c;
+}
+
+.pcoments{
+    margin-top: 20px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+}

@@ -84,11 +84,9 @@ tr {
   border-radius: 25px;
 }
 
-.fb-comments-comment-name {
-  font-size: 0.85em;
-}
 
-.fb-comments-comment-name name {
+
+.fb-comments-comment-name {
   color: #365899;
   text-decoration: none;
   font-weight: 700;
@@ -96,13 +94,6 @@ tr {
   cursor: hand;
 }
 
-.fb-comments-comment-name name:hover {
-  text-decoration: underline;
-}
-
-.fb-comments-comment-name occupation {
-  color: #90949c;
-}
 
 .fb-comments-comment-text {
   font-size: 0.9em;
@@ -206,6 +197,14 @@ tr {
 .bbtn {
   width: 100%;
   max-width: 449px;
+}
+
+.headn{
+  font-size: 18px;
+}
+.redtxt{
+  color:rgb(238, 255, 0);
+  font-weight: 600;
 }
 
 @media (max-width: 768px) {
